@@ -2,16 +2,15 @@
 
 Searches all Git repositories inside a folder and fetches the latest changes in them.
 
-__Author:__ Mario Cuba <<mario@mariocuba.net>>
-
-### License
-
-Released to the Public Domain under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0).
+__Author:__ Mario Cuba <<mario@mariocuba.net>>  
+__License:__ Released to the Public Domain under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0).
 
 ## Requirements
 
 - Python 2.6.1
-- Git 1.7.x
+- Git 1.7.1
+
+The script has been tested with those versions, but it should work with later (and even previous) versions.
 
 ### Instructions
 
@@ -28,3 +27,5 @@ The script, by default, runs `git fetch --all --prune` in every single Git repos
 - Pass custom parameters to the fetch command
 - Use the current folder if no parameter is passed
 - Enable simultaneous fetching
+
+Copyright &copy: 2012.
