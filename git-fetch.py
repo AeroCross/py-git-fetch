@@ -1,3 +1,9 @@
+# git-fetch.py – Search all Git repositories inside a folder and fetches the latest changes in them
+
+# Version 1.0
+# Author: Mario Cuba <mario@mariocuba.net>
+# License: Creative Commons Attribution 3.0 Unported License (see: http://creativecommons.org/licenses/by/3.0)
+
 # import needed modules
 import os;
 import subprocess;
