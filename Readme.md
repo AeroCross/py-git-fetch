@@ -4,7 +4,7 @@ Searches all Git repositories inside a folder and fetches the latest changes in 
 
 __Author:__ Mario Cuba <<mario@mariocuba.net>>
 
-## License
+### License
 
 Released to the Public Domain under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0).
 
@@ -13,7 +13,7 @@ Released to the Public Domain under the [Creative Commons Attribution 3.0 Unport
 - Python 2.6.1
 - Git 1.7.x
 
-## Instructions
+### Instructions
 
 Copy the script anywhere in your hard drive, and execute it via Python:
 
