@@ -27,5 +27,3 @@ The script, by default, runs `git fetch --all --prune` in every single Git repos
 - Pass custom parameters to the fetch command
 - Use the current folder if no parameter is passed
 - Enable simultaneous fetching
-
-Copyright &copy; 2012.
