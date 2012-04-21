@@ -1,4 +1,4 @@
-# py-git-fetch
+## py-git-fetch
 
 Searches all Git repositories inside a folder and fetches the latest changes in them.
 
@@ -8,12 +8,12 @@ __Author:__ Mario Cuba <<mario@mariocuba.net>>
 
 Released to the Public Domain under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0).
 
-### Requirements
+## Requirements
 
 - Python 2.6.1
 - Git 1.7.x
 
-### Instructions
+## Instructions
 
 Copy the script anywhere in your hard drive, and execute it via Python:
 
